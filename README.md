@@ -13,8 +13,8 @@
   
 5. ดาวน์โหลดโฟลเดอร์ .rar ที่มี 'piano.py' และแตกไฟล์ออก : [https://github.com/donut094/donutmacropiano]
 6. ดาวน์โหลดไฟล์เพลง MID ที่ฟังดูดีกับเปียโน จากนั้นคลิกขวาที่ไฟล์ MID ที่ดาวน์โหลดมา และเลือก 'คัดลอกเป็นเส้นทาง'
-7. เครื่องมือดาวน์โหลดไฟล์ .Mid : https://chrome.google.com/webstore/detail/music-score-downloader/jhogldboghgffknljgnomjkcfbapogdf 
-8. เว็ปหาไฟลเพลง .Mid : https://musescore.com/
+7. เครื่องมือดาวน์โหลดไฟล์ .Mid : [https://chrome.google.com/webstore/detail/music-score-downloader/jhogldboghgffknljgnomjkcfbapogdf]
+8. เว็ปหาไฟลเพลง .Mid : [https://musescore.com/]
 9. เปิดโฟลเดอร์ที่แยกออกมาซึ่งมี 'piano.py' และคลิกขวาในพื้นที่ว่างเพื่อเปิด Command Prompt หรือ Windows PowerShell ในโฟลเดอร์นั้น
 10. เปิดเกมแล้วไปที่หน้าจอเปียโน
 11. กลับไปที่หน้าต่าง Command/PowerShell ป้อนคำสั่งต่อไปนี้ และสลับกลับไปที่เกมหลังจากกด Enter:
