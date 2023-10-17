@@ -32,7 +32,7 @@ def play_midi(path, pitch_modulation=10):
     midi = mido.MidiFile(path)
     print("Press F5 to play. F6 to stop")
     keyboard.wait('F5')
-    time.sleep(2)
+    time.sleep(5)
     
     print(f"""
     
