@@ -32,17 +32,18 @@ def play_midi(path, pitch_modulation=10):
     midi = mido.MidiFile(path)
     print("Press F5 to play. F6 to stop")
     keyboard.wait('F5')
-    time.sleep(5)
     
     print(f"""
     
     Donut : Macro : Piano
     
-    Macro Success ✓
+    Macro Success time 5 seconds ✓
     
     Enter The Game Undawn
     
     """)
+    
+    time.sleep(5)
 
     curr_pitch = 'f2'
     pyautogui.press(curr_pitch)
