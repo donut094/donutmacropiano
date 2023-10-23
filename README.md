@@ -8,8 +8,8 @@
 3. เปิด cmd พิมพ์คำสั่งต่อไปนี้ แล้วกด Enter:
    
      ```
-   pip install mido pyautogui
-   pip install mido keyboard
+   pip install mido pyautogui keyboard
+
     ```
   
 5. ดาวน์โหลดโฟลเดอร์ .rar ที่มี 'piano.py' และแตกไฟล์ออก : [https://github.com/donut094/donutmacropiano]
