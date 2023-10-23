@@ -9,7 +9,6 @@
    
      ```
    pip install mido pyautogui keyboard
-
     ```
   
 5. ดาวน์โหลดโฟลเดอร์ .rar ที่มี 'piano.py' และแตกไฟล์ออก : [https://github.com/donut094/donutmacropiano]
